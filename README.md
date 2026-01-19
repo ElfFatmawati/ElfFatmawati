@@ -1,7 +1,7 @@
 ## Hi, I am Elf 👋
 
 🎯 Just another "normal" human trying to teach machines how to think. <br/>
-💻 Currently vibin' in C++, tinkering with AI that may or may not take over the world someday (but hey, at least it'll have good UX). <br/>
+💻 Currently vibin' in HTML, Python, and yeah, codevibing. Tinkering with AI that may or may not take over the world someday (but hey, at least it'll have good UX). <br/>
 🎨 I design interfaces that don’t make people cry. <br/>
 🤝 Sometimes I contribute to open source… just enough to feel morally superior at family dinners. <br/>
 🚀 Building slow, learning fast — and yes, I read the docs. <br/>
